@@ -19,6 +19,17 @@ Opening another store requires getting multiple operational details ready at onc
 
 **Condor Latino 3 opened in November 2025.** My contributions were part of the broader team effort to prepare the new location. I did not track a separate sales or cost-saving metric for my portion of the work.
 
+## Project workflow
+
+```mermaid
+flowchart TD
+    A["Inventory and supplier orders"] --> C["Store readiness"]
+    B["Equipment, signage, and promotions"] --> C
+    C --> D["Condor Latino 3 opened in November 2025"]
+```
+
+*Illustrative opening checklist, not an internal business document.*
+
 ## What I learned
 
 A new store can only open smoothly when small details are handled and everyone stays coordinated. Supplier communication and inventory organization are just as important as what customers see on opening day.
