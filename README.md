@@ -12,6 +12,7 @@ I'm interested in bookkeeping and accounting support, especially positions where
 - [Condor Latino 3 Store Launch](projects/condor-latino-3-launch.md)
 - [Skills and tools](#skills-and-tools)
 - [Education](#education)
+- [Resume PDF](#resume-pdf)
 - [Connect](#connect)
 - [Portfolio website](#portfolio-website)
 
@@ -48,6 +49,10 @@ I helped prepare Condor Latino's third store for opening by coordinating invento
 
 **Delaware County Community College** — Accounting coursework in progress, 2026–present  
 Relevant coursework: Introduction to Information Technology (CS 100), Mathematics Review, and New Media and Culture.
+
+## Resume PDF
+
+[View my resume (PDF)](resume/Lennyn_Leon_Resume.pdf). This public portfolio version directs employers to my LinkedIn instead of displaying my personal phone number and email address.
 
 ## Connect
 
