@@ -19,6 +19,16 @@ Putting a new point-of-sale system into everyday store operations takes more tha
 
 The store implemented Lightspeed Retail X for its retail workflows, and **12 employees received training**. I did not collect reliable before-and-after performance percentages, so I am not claiming a specific time or cost saving.
 
+## Project workflow
+
+```mermaid
+flowchart LR
+    A["Product and inventory setup"] --> B["Lightspeed Retail X transactions"]
+    B --> C["Staff training and daily use"]
+```
+
+*Illustrative workflow based on my work, not a screenshot or export from the business's system.*
+
 ## What I learned
 
 Good technical implementation depends on communication. It matters whether the people using a system understand how it fits into the job they do each day.
